@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-st.set_page_config(page_title="Expense Analyzer", page_title="💰")
+st.set_page_config(page_title="Expense Analyzer", icon="💰")
 
 st.title("💰 AI Expense Analyzer")
 
